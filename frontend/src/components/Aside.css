@@ -1,0 +1,7 @@
+.aside {
+  width: 7%;
+  height: 100%;
+  position: absolute;
+  background-image: url(/assets/logo-menu.png);
+  background-repeat: no-repeat;
+}
