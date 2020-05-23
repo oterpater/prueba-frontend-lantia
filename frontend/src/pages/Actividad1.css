@@ -1,0 +1,58 @@
+.content {
+  width: 80%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  padding-left: 110px;
+  padding-right: 100px;
+  margin-top: 20px;
+  text-align: left;
+  line-height: 1.5;
+  font-size: 18px;
+  color: #545454;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img {
+  width: 150px;
+  height: 180px;
+}
+
+.faLemon {
+  color: #D4E0A2;
+  margin-right: 10px 
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.item {
+  padding-left: 150px;
+  padding-right: 140px;
+  line-height: 1.5;
+  font-size: 18px;
+  color: #545454;
+  display: flex;
+  flex-direction: row
+}
+
+.button {
+  width: 150px;
+  border-color: #ADD5EF;
+  border-radius: 50px 15px;
+  background-color: #ADD5EF;
+  font-size: 18px;
+}
