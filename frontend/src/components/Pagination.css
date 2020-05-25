@@ -1,0 +1,15 @@
+.icon--pagination {
+  color: #283047;
+  width: 150%;
+  height: 150%;
+  margin-right: 10px;
+}
+
+.pagination {
+  text-align: center;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
