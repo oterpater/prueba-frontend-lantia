@@ -1,0 +1,77 @@
+.container--survey {
+  width: 100%
+}
+
+.instructions {
+  text-align: center;
+}
+
+.eje {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center
+}
+
+.ejeName {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-right: 10px;
+}
+
+.container__calification {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.calification {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around
+}
+
+.number {
+  width: 30px;
+  height: 30px;
+  background-color: #AFDBD0;
+  color: #ffffff;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.question1 {
+  width: 100%;
+  background-color: #EEF7F4;
+  padding-top: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.question--name{
+  padding-left: 20px
+}
+
+.form {
+  padding-top: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around
+}
+
+.container--form {
+  width: 60%;
+}
+
+.radioButton {
+  width: 20px;
+  height: 20px
+}
+
+
+
+
