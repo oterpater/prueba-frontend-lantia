@@ -10,3 +10,4 @@ Desde la terminal :
 - npm install
 - npm start
 
+Para visualizar el resultado por favor el navegador ponerlo en tamaño 1366px x 768px.
