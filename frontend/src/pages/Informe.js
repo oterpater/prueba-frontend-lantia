@@ -28,7 +28,8 @@ function Actividad1() {
           <p>
             El <strong>resultado</strong> de cada eje, es el promedio de la sumatoria de todas
             las preguntas de ese respectivo bloque (propósito, herramientas, procesos, estructura).
-            Rango de evaluación: entre 1 y 4, siendo 1 el menor y 4 la mayor puntuación.          </p>
+            Rango de evaluación: entre 1 y 4, siendo 1 el menor y 4 la mayor puntuación.
+          </p>
         </div>
       </main>
 
