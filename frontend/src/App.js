@@ -12,6 +12,7 @@ import InteligenciaA from './pages/InteligenciaA';
 import Actividad1 from './pages/Actividad1';
 import Preguntas from './pages/Preguntas';
 import Proceso from './pages/Proceso';
+import Informe from './pages/Informe';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route exact path="/actividad" component={Actividad1} />
         <Route exact path="/preguntas" component={Preguntas} />
         <Route exact path="/proceso" component={Proceso} />
+        <Route exact path="/informe" component={Informe} />
       </Switch>
     </Router>
   );

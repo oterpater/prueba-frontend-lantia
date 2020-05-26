@@ -1,5 +1,6 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 import './Page.css';
 import Header from '../components/Header';
@@ -50,7 +51,10 @@ function Preguntas() {
               />
             </label>
           </form>  
-          <Survey/>        
+          <Survey/>
+          <Link to="/informe">
+              <Button variant="secondary" className="button--activity">VALIDAR</Button>
+          </Link>        
         </div>
       </main>
 
