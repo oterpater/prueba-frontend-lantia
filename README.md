@@ -1,4 +1,4 @@
-# Prueba Fronend Lantia SAS
+# Prueba Frontend Lantia SAS
 
 La prueba consistió una aplicación para visualizar contenidos interactivos utilizando ES2015 y la librería React JS.
 
